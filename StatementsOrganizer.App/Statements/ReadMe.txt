@@ -1,0 +1,1 @@
+﻿In this folder, add your monthly credit card statements as CSV files.
