@@ -17,7 +17,7 @@ namespace StatementsOrganizer
             //string outputFileName = "C:\\Users\\etoth_000\\Downloads\\CCStatementsOutput2.csv";
             string outputFileName = null;
 
-
+            //use statement processor
             StatementsProcessor statementsProcessor = new StatementsProcessor(statementsPath, outputFileName);
             statementsProcessor.Process();
 
